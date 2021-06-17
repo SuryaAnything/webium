@@ -36,3 +36,6 @@ window.onload = function () {
   3) git add . 
   4) git commit -m "meaningful messsage"
   5) git push origin master 
+
+  6) git diff
+  7) git log
